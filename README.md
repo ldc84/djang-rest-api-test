@@ -2,6 +2,17 @@
 
 Python Framework Django를 이용한 RESTful API 만들기
 
+## Function
+- registration
+- login
+- logout
+- post viewset
+- image upload
+- reply
+- pagination
+
+
+## Use
 clone:
 
 ```bash
@@ -14,6 +25,6 @@ $ python manage.py migrate
 $ python manage.py runserver
 ```
 
-reperence:
+## Reperence
 https://www.django-rest-framework.org/
 https://freekim.tistory.com/4?category=887076
